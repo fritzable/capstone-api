@@ -16,12 +16,13 @@ The back end is built with Express and Mongoose
 
 ### See the deployed sites:
 
-[back end:](https://enigmatic-hollows-62648.herokuapp.com/)
-[front end:](https://fritzable.github.io/capstone-client/)
+[back end](https://enigmatic-hollows-62648.herokuapp.com/)
 
-### Repo for the back end:
+[front end](https://fritzable.github.io/capstone-client/)
 
-[back end repo:](https://github.com/fritzable/capstone-api)
+### Repo for the front end:
+
+[front end repo](https://github.com/fritzable/capstone-client)
 
 ### Plans for future fixes:
 
