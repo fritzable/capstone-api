@@ -1,5 +1,5 @@
 #### screenshot
-![Hapsoon screenshot](./src/hapsoon.png)
+![Hapsoon screenshot](./lib/hapsoon.png)
 
 ### What it is
 
