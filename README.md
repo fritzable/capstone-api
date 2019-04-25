@@ -18,11 +18,11 @@ The back end is built with Express and Mongoose
 
 [back end](https://enigmatic-hollows-62648.herokuapp.com/)
 
-[front end](https://fritzable.github.io/capstone-client/)
+[front end](https://fritzable.github.io/hapsoon-client/)
 
 ### Repo for the front end:
 
-[front end repo](https://github.com/fritzable/capstone-client)
+[front end repo](https://github.com/fritzable/hapsoon-client)
 
 ### Plans for future fixes:
 
